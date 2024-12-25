@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingShortestPath", "FindingShortestPath\FindingShortestPath.csproj", "{A42FD6B8-C226-4BA5-BD92-2949E6618901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingShortestPath.Tests", "FindingShortestPath.Tests\FindingShortestPath.Tests.csproj", "{BD7F06A8-30D4-4418-B1D4-6BDF0D1F68D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42FD6B8-C226-4BA5-BD92-2949E6618901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42FD6B8-C226-4BA5-BD92-2949E6618901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42FD6B8-C226-4BA5-BD92-2949E6618901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42FD6B8-C226-4BA5-BD92-2949E6618901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7F06A8-30D4-4418-B1D4-6BDF0D1F68D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7F06A8-30D4-4418-B1D4-6BDF0D1F68D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7F06A8-30D4-4418-B1D4-6BDF0D1F68D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7F06A8-30D4-4418-B1D4-6BDF0D1F68D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99292564-1763-4947-B757-F8BB8003D381}
+	EndGlobalSection
+EndGlobal

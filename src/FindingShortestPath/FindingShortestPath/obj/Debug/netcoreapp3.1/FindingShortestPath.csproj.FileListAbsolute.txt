@@ -1,0 +1,13 @@
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.exe
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.deps.json
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.runtimeconfig.json
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.runtimeconfig.dev.json
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.dll
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\bin\Debug\netcoreapp3.1\FindingShortestPath.pdb
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.AssemblyInfo.cs
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.dll
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.pdb
+D:\Users\stu-ipsp121\Documents\Project\src\FindingShortestPath\FindingShortestPath\obj\Debug\netcoreapp3.1\FindingShortestPath.genruntimeconfig.cache
