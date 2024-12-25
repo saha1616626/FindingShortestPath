@@ -5,7 +5,7 @@ using System.Text;
 namespace FindingShortestPath
 {
     /// <summary>
-    /// Класс хранит начальную пути между точками
+    /// Класс хранит путь между двумя точками
     /// </summary>
     public class PointsOnKatya
     {   
